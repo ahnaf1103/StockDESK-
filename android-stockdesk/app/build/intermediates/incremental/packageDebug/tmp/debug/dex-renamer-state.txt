@@ -1,0 +1,13 @@
+#Fri Sep 18 22:29:27 UTC 2026
+base.0=/workspaces/StockDESK_v1.0.0/android-stockdesk/app/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex
+base.1=/workspaces/StockDESK_v1.0.0/android-stockdesk/app/build/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex
+base.2=/workspaces/StockDESK_v1.0.0/android-stockdesk/app/build/intermediates/dex/debug/mergeProjectDexDebug/12/classes.dex
+base.3=/workspaces/StockDESK_v1.0.0/android-stockdesk/app/build/intermediates/dex/debug/mergeProjectDexDebug/4/classes.dex
+path.0=classes.dex
+path.1=0/classes.dex
+path.2=12/classes.dex
+path.3=4/classes.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex
+renamed.2=classes3.dex
+renamed.3=classes4.dex
