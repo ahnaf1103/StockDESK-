@@ -1,2 +1,2 @@
-# StockDESK
+# stockdesk-release
 
