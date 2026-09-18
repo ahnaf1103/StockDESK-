@@ -1,0 +1,4 @@
+#Fri Sep 18 22:31:03 UTC 2026
+base.0=/workspaces/StockDESK_v1.0.0/android-stockdesk/app/build/intermediates/dex/release/mergeDexRelease/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
